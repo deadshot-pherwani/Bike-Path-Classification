@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 12,1790107748190,2026-09-22_20-09-08,Europe/Amsterdam,ios,1.65,d7be2484-a1e1-40f3-82ba-5d51fb50446e,Accelerometer|Gravity|Gyroscope|Location|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|0||10|10,false,26.2
